@@ -1,7 +1,7 @@
 
 ## Hi there👋, My name is Dmitriy
 
-I'm learning to program and sometimes I make all sorts of mechanisms on arduino😀
+I'm learning to program and sometimes I make all sorts of mechanisms on arduino😅
 
 ## Leetcode stats
 ![LeetCode Stats](https://leetcode.card.workers.dev/Phaser2028?theme=dark&font=baloo&extension=null)
