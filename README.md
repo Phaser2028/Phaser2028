@@ -1,6 +1,7 @@
 
 # Hi there, I'm Dmitriy 👋
 
+## Leetcode stats
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Phaser2028&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 ## Streak stats
