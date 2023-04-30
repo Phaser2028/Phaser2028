@@ -1,6 +1,6 @@
 
 # Hi there <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media2.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e47mg8sz6uoaf5hwp1amc0ct78law7evdjqd46u8c7p&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100"/>
 </div>, My name is Dmitriy
 I'm learning to program and sometimes I make all sorts of mechanisms on arduino
 
