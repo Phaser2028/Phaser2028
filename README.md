@@ -7,7 +7,8 @@ I'm learning to program and sometimes I make all sorts of mechanisms on arduino�
 ![LeetCode Stats](https://leetcode.card.workers.dev/Phaser2028?theme=dark&font=baloo&extension=null)
 
 ## 😎HackerRank stats
-![image](https://user-images.githubusercontent.com/43641188/235372911-3716b550-db95-45df-bb06-e078d5a25561.png)
+![hack](https://user-images.githubusercontent.com/43641188/235373862-33331608-b579-4822-8001-1596e26dfaf1.PNG)
+
 
 
 ## 🔥Streak stats
