@@ -1,9 +1,8 @@
 
 # Hi there, I'm Dmitriy 👋
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Phaser2028&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Phaser2028&theme=dark)](https://git.io/streak-stats) https://leetcode.card.workers.dev/Phaser2028?theme=dark&font=baloo&extension=null
-
+## Streak stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Phaser2028&theme=dark)](https://git.io/streak-stats) 
 
