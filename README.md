@@ -1,7 +1,7 @@
 
-# Hi there, I'm Dmitriy ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-
+# Hi there, I'm Dmitriy 👋
+<img src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Phaser2028&theme=dark)](https://git.io/streak-stats)" width="250" height="250"/>
 ## 🔥Streak stats
-<div style="text-align:center">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Phaser2028&theme=dark)](https://git.io/streak-stats)</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Phaser2028&theme=dark)](https://git.io/streak-stats)
 
 
