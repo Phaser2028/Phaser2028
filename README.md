@@ -9,6 +9,6 @@ I'm learning to program and sometimes I make all sorts of mechanisms on arduinoð
 ## HackerRank stats
 ![image](https://user-images.githubusercontent.com/43641188/235378922-e2ffc869-8cb5-4f52-8d9a-4583004e737c.png)
 
-## Streak stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Phaser2028&theme=dark)](https://git.io/streak-stats) 
+<!-- ## Streak stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Phaser2028&theme=dark)](https://git.io/streak-stats)  -->
 
