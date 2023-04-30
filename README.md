@@ -1,6 +1,6 @@
-### Hi there 👋
+🔥
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Phaser2028&theme=dark&hide_border=true&border_radius=3.1&card_width=500)](https://git.io/streak-stats)
+<h1 align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=Phaser2028&theme=dark&hide_border=true&border_radius=3.1&card_width=500)](https://git.io/streak-stats)</h1>
 
 <!--
 **Phaser2028/Phaser2028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
