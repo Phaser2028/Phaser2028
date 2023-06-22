@@ -6,7 +6,8 @@ I'm learning to program and sometimes I make all sorts of mechanisms on arduinoð
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## HackerRank stats
-![image](https://github.com/Phaser2028/Phaser2028/assets/43641188/f6153361-df29-436b-90ff-93a88139ef0b)
+![image](https://github.com/Phaser2028/Phaser2028/assets/43641188/ee90261c-a2ea-4c52-a491-8f3095afe2bd)
+
 
 ## Leetcode stats
 ![LeetCode Stats](https://leetcode.card.workers.dev/Phaser2028?theme=dark&font=baloo&extension=null)
